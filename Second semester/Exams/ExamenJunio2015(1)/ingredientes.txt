@@ -1,0 +1,7 @@
+300 Pollo
+350 Arroz
+400 Aceite de oliva
+50 Cebolla
+60 Pimiento verde
+350 Mayonesa
+-1

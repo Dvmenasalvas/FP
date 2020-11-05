@@ -1,0 +1,104 @@
+0 5
+paginaE
+
+1 a
+inicio  paginaA  paginaE
+
+2 acceder
+inicio
+
+3 al
+paginaA
+
+4 aqui
+paginaE
+
+5 de
+inicio  paginaF  paginaG
+
+6 desde
+inicio  paginaE
+
+7 ella
+inicio
+
+8 enlaces
+paginaB  paginaD  paginaC
+
+9 es
+inicio  paginaA
+
+10 esta
+inicio  paginaB  paginaD  paginaC
+
+11 hola
+paginaG
+
+12 inicio
+inicio
+
+13 ir
+paginaA
+
+14 la
+inicio
+
+15 no
+inicio  paginaB
+
+16 o
+paginaA
+
+17 otra
+paginaA
+
+18 pagina
+inicio  paginaB  paginaA  paginaE  paginaF  paginaG  paginaC
+
+19 pagina3
+inicio
+
+20 pero
+inicio
+
+21 podemos
+inicio
+
+22 puedo
+paginaA
+
+23 queremos
+inicio
+
+24 referencia
+paginaA
+
+25 si
+inicio  paginaC
+
+26 tambien
+paginaA  paginaC
+
+27 tampoco
+paginaD
+
+28 tiene
+paginaB  paginaD  paginaC
+
+29 una
+inicio  paginaA
+
+30 upes
+paginaG
+
+31 vamos
+inicio  paginaE
+
+32 varias
+inicio
+
+33 veces
+inicio
+
+34 y
+inicio  paginaC

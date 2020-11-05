@@ -1,0 +1,19 @@
+MD01
+¿Cuántos datos se pueden codificar con 4 bits?
+16
+CB00
+Escribe 8 en binario
+1000
+CF13
+Uno
+1
+FE45
+Cuatro 
+4
+FW43
+Diez
+10
+GT56
+Millon
+1000000
+XXX

@@ -1,0 +1,3 @@
+<paginaC.txt> es una referencia a una pagina.
+Tambien puedo ir al <inicio.txt> o a otra Pagina.
+<inicio.txt> <paginaG.txt> <paginaF.txt> <paginaE.txt> <paginaD.txt> <paginaC.txt> <paginaB.txt> <paginaA.txt>

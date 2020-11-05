@@ -1,0 +1,3 @@
+Esta pagina si tiene enlaces <paginaA.txt> <inicio.txt>
+y tambien <paginaD.txt> y <paginaE.txt>.
+Pagina pagina pagina <paginaG.txt>
